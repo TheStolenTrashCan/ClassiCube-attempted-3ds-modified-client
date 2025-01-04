@@ -1,6 +1,8 @@
 # https://github.com/msikma/3ds-tpl
 # https://gist.github.com/jakcron/9f9f02ffd94d98a72632
 
+PMLAUNCHFLAG_FORCE_USE_O3DS_MAX_APP_MEM 	
+
 BasicInfo:
   Title                   : ClassiCube
   CompanyCode             : "00"
