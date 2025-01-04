@@ -1,4 +1,4 @@
- ann#---------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------
 .SUFFIXES:
 #---------------------------------------------------------------------------------
 
@@ -13,9 +13,9 @@ include $(DEVKITARM)/3ds_rules
 # configurable options
 #---------------------------------------------------------------------------------
 APP_ICON	:= $(TOPDIR)/misc/3ds/icon.png
-APP_TITLE 	:= ClassiCube 3DS+ Modification
-APP_DESCRIPTION := A Classicube Modification trying to get it to run better on old 3ds systems
-APP_AUTHOR 	:= UnknownShadow200 and Trashcan (for the modification)
+APP_TITLE 	:= ClassiCube
+APP_DESCRIPTION := Simple block building sandbox
+APP_AUTHOR 	:= UnknownShadow200
 TARGET 		:= ClassiCube-3ds
 
 #---------------------------------------------------------------------------------
