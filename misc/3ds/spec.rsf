@@ -56,7 +56,7 @@ AccessControlInfo:
   PermitMainFunctionArgument    : false
   CanShareDeviceMemory          : false
   RunnableOnSleep               : false
-  SpecialMemoryArrange          : false
+  SpecialMemoryArrange          : true
   CoreVersion                   : 2
   DescVersion                   : 2
   
