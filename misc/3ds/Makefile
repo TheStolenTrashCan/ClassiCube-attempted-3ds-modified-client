@@ -15,7 +15,7 @@ include $(DEVKITARM)/3ds_rules
 APP_ICON	:= $(TOPDIR)/misc/3ds/icon.png
 APP_TITLE 	:= ClassiCube 3DS+ Modification
 APP_DESCRIPTION := A Classicube Modification trying to get it to run better on old 3ds systems
-APP_AUTHOR 	:= UnknownShadow200 and Trashcan (modification)
+APP_AUTHOR 	:= UnknownShadow200 and Trashcan (for the modification)
 TARGET 		:= ClassiCube-3ds
 
 #---------------------------------------------------------------------------------
