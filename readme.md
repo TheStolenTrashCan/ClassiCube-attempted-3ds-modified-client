@@ -1,3 +1,10 @@
+This is my attempt at making classicube run a little better on the old 3ds models
+
+
+
+
+
+
 ClassiCube is a custom Minecraft Classic compatible client written in C from scratch.<br>
 > [!IMPORTANT]
 **ClassiCube is not affiliated with (or supported by) Mojang AB, Minecraft, or Microsoft in any way.** <br><br>
